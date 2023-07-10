@@ -10,4 +10,4 @@ Official implementation of [SurfelNeRF: Neural Surfel Radiance Fields for Online
 # Update
 
 * Since official code requires internal review within the company before it can be released. Therefore, we have first 
-released an unofficial version of the implementation code at here: [link](). 
+released an unofficial version of the implementation code at here: [link](https://github.com/Gymat/SurfelNeRF/tree/unofficial). 
